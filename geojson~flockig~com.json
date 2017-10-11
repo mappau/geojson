@@ -1,1 +1,109 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#10ed1b","marker-size":"medium","marker-symbol":""},"geometry":{"type":"Point","coordinates":[16.350038051605225,48.2108900812027]}},{"type":"Feature","properties":{"marker-color":"#971ce1","marker-size":"medium","marker-symbol":""},"geometry":{"type":"Point","coordinates":[16.35092854499817,48.20745100943139]}},{"type":"Feature","properties":{"marker-color":"#e01d88","marker-size":"medium","marker-symbol":""},"geometry":{"type":"Point","coordinates":[16.3486647605896,48.21030381086868]}},{"type":"Feature","properties":{"marker-color":"#f50707","marker-size":"medium","marker-symbol":""},"geometry":{"type":"Point","coordinates":[16.348857879638672,48.21193391176868]}},{"type":"Feature","properties":{"marker-color":"#051ef8","marker-size":"medium","marker-symbol":""},"geometry":{"type":"Point","coordinates":[16.350982189178467,48.21177662359289]}},{"type":"Feature","properties":{"stroke":"#2c7e7e","stroke-width":4,"stroke-opacity":1},"geometry":{"type":"LineString","coordinates":[[16.349952220916748,48.213192199782476],[16.349608898162842,48.21203400399264],[16.348342895507812,48.211719427772806],[16.349008083343506,48.211247559819604],[16.349565982818604,48.209746132858704],[16.350488662719727,48.21076138828968],[16.352548599243164,48.21106167125026],[16.350381374359127,48.21180522147898],[16.350767612457275,48.21350676695465],[16.34993076324463,48.21326369249129],[16.34993076324463,48.21362115453811]]}},{"type":"Feature","properties":{"stroke":"#979e0c","stroke-width":3.3,"stroke-opacity":1},"geometry":{"type":"LineString","coordinates":[[16.3521945476532,48.21254876091117],[16.34617567062378,48.21014651768588],[16.35089635848999,48.208680807984166]]}},{"type":"Feature","properties":{"stroke":"#05a51a","stroke-width":4.6,"stroke-opacity":1},"geometry":{"type":"LineString","coordinates":[[16.35288119316101,48.212370026456476],[16.352967023849487,48.20958168818354],[16.351271867752075,48.20951019033399],[16.35292410850525,48.208745157095386]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#10ed1b",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.350038051605225,
+          48.2108900812027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#971ce1",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35092854499817,
+          48.20745100943139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e01d88",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3486647605896,
+          48.21030381086868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f50707",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.348857879638672,
+          48.21193391176868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#051ef8",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.350982189178467,
+          48.21177662359289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#05a51a",
+        "stroke-width": 4.6,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.35288119316101,
+            48.212370026456476
+          ],
+          [
+            16.352967023849487,
+            48.20958168818354
+          ],
+          [
+            16.351271867752075,
+            48.20951019033399
+          ],
+          [
+            16.35292410850525,
+            48.208745157095386
+          ]
+        ]
+      }
+    }
+  ]
+}
