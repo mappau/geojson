@@ -3411,6 +3411,28 @@
       "properties": {
         "name": "Laufen"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.059509277343748,
+          48.07440873478364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7489013671875,
+          47.64318610543658
+        ]
+      }
     }
   ]
 }
