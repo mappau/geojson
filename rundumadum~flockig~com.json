@@ -3290,7 +3290,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#e0661d",
+        "marker-color": "#f30a0a",
         "marker-size": "medium",
         "marker-symbol": ""
       },
