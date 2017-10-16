@@ -16936,11 +16936,14 @@
       },
       "geometry_name": "SHAPE",
       "properties": {
+        "stroke": "#179371",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "OBJECTID": 38627,
         "BEZ_TEXT": "Stadtwanderweg 1a; rundumadum Abschnitt 01",
         "URL_INFO": "http://www.wien.gv.at/umwelt/wald/freizeit/wandern/rundumadum/etappe1.html",
         "TYP": 2,
-        "SE_ANNO_CAD_DATA": null
+        "SE_ANNO_CAD_DATA": "null"
       }
     },
     {
